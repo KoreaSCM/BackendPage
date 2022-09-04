@@ -1,4 +1,4 @@
-package com.LearnJPA;
+package com.KoreaSCM;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
