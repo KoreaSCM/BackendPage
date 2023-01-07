@@ -20,4 +20,10 @@ public class HomeController {
 	public String blank() {
 		return "blank";
 	}
+	
+	// 뷰 테스트 완료되면 삭제할 URL
+	@GetMapping("/test")
+	public String testingPage() {
+		return "index_testingPage";
+	}
 }
